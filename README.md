@@ -1,15 +1,15 @@
 <br />
 <div align="center">
-<h2 align="center">FormFrenzy</h2>
+<h2 align="center">Survey Form</h2>
 
   <p align="center">
    complete form solutions enabling users to create forms, quizzes and many more.
     <br />
     <br />
     <!-- to edit -->
-    <a href="https://github.com/shivam6862/Quiz-App/issues">Report Bug</a>
+    <a href="https://github.com/pritishrajpoot/Quiz-App/issues">Report Bug</a>
     ·
-    <a href="https://github.com/shivam6862/Quiz-App/issues">Request Feature</a>
+    <a href="https://github.com/pritishrajpoot/Quiz-App/issues">Request Feature</a>
   </p>
 </div>
 
@@ -117,7 +117,7 @@ Then you hve to get the firebaseConfig keys file which you have to put .env file
 
 Survey Form intuitive interface makes it easy to create forms and quizzes of any complexity level. The app offers a range of question types, including multiple-choice, short answer, and essay questions, enabling users to create dynamic and engaging assessments. <br/>
 
-Form powerful management features enable users to track the responses to their forms and quizzes easily. Users can view real-time analytics and generate reports <br/>
+Survey Form powerful management features enable users to track the responses to their forms and quizzes easily. Users can view real-time analytics and generate reports <br/>
 
 Survey Form also offers a unique feature for exam givers, which enables them to conduct group exams. The app allows users to create chat groups for group exams, facilitating communication between exam givers and takers. This feature makes it easier for exam givers to monitor the progress of the exam and answer any questions that exam takers may have.<br/>
 

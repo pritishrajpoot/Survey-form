@@ -36,7 +36,7 @@
 
 FormFrenzy is an innovative web application that simplifies the process of creating and managing quizzes, forms, and exams. With FormFrenzy, users can easily create customized quizzes, surveys, and result forms, and share them with others through various platforms.
 
-Team - `shivam6862`
+Team - `pritishrajpoot`
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -68,7 +68,7 @@ Then you hve to get the firebaseConfig keys file which you have to put .env file
 1. Get a free firebase authentication from [https://console.firebase.google.com/]
 2. Clone the repo
    ```sh
-   git clone https://github.com/shivam6862/Quiz-App
+   git clone https://github.com/pritishrajpoot/Quiz-App
    ```
 3. Install NPM packages on both backend and frontend folders
    ```sh
@@ -115,15 +115,15 @@ Then you hve to get the firebaseConfig keys file which you have to put .env file
 
 ## Description
 
-FormFrenzy's intuitive interface makes it easy to create forms and quizzes of any complexity level. The app offers a range of question types, including multiple-choice, short answer, and essay questions, enabling users to create dynamic and engaging assessments. <br/>
+Survey Form intuitive interface makes it easy to create forms and quizzes of any complexity level. The app offers a range of question types, including multiple-choice, short answer, and essay questions, enabling users to create dynamic and engaging assessments. <br/>
 
-FormFrenzy's powerful management features enable users to track the responses to their forms and quizzes easily. Users can view real-time analytics and generate reports <br/>
+Form powerful management features enable users to track the responses to their forms and quizzes easily. Users can view real-time analytics and generate reports <br/>
 
-FormFrenzy also offers a unique feature for exam givers, which enables them to conduct group exams. The app allows users to create chat groups for group exams, facilitating communication between exam givers and takers. This feature makes it easier for exam givers to monitor the progress of the exam and answer any questions that exam takers may have.<br/>
+Survey Form also offers a unique feature for exam givers, which enables them to conduct group exams. The app allows users to create chat groups for group exams, facilitating communication between exam givers and takers. This feature makes it easier for exam givers to monitor the progress of the exam and answer any questions that exam takers may have.<br/>
 
 Overall, FormFrenzy is a powerful and user-friendly application that makes creating and managing forms, quizzes, and exams simple and efficient. Its range of features, including customization options, analytics, and group exam chat, makes it an ideal tool for educators, businesses, and anyone else who needs to create and manage forms and quizzes. <br/>
 
-<a href="https://github.com/shivam6862/"><img src="./Frontend/public/QuizApp.png" style="border-radius:12px"></a>
+<a href="https://github.com/pritishrajpoot/"><img src="./Frontend/public/QuizApp.png" style="border-radius:12px"></a>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -148,9 +148,9 @@ Don't forget to give the project a star! Thanks again!
 
 ## Contact
 
-FormFrenzy - [@shivam-kumar](https://www.linkedin.com/in/shivam-kumar-14701b249/)
+FormFrenzy - [@pritishrajpoot](https://www.linkedin.com/in/pritish-rajpoot-b318381a9/)
 
-Project Link: [https://github.com/shivam6862/Quiz-App](https://github.com/shivam6862/Quiz-App)
+Project Link: [https://github.com/pritishrajpoot/Quiz-App](https://github.com/pritishrajpoot/Survey-form)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -165,7 +165,7 @@ Use this space to list resources you find helpful and would like to give credit 
 - [MongoDb](https://www.mongodb.com/)
 - [Firebase](https://console.firebase.google.com/)
 
-* []() Finally, kudos to the team for the great work `shivam6862`
+* []() Finally, kudos to the team for the great work `pritishrajpoot`
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 [react-url]: https://reactjs.org/

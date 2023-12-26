@@ -148,7 +148,7 @@ Don't forget to give the project a star! Thanks again!
 
 ## Contact
 
-FormFrenzy - [@pritishrajpoot](https://www.linkedin.com/in/pritish-rajpoot-b318381a9/)
+Survey Form - [@pritishrajpoot](https://www.linkedin.com/in/pritish-rajpoot-b318381a9/)
 
 Project Link: [https://github.com/pritishrajpoot/Quiz-App](https://github.com/pritishrajpoot/Survey-form)
 

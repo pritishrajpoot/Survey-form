@@ -34,7 +34,7 @@
 
 ## About The Project
 
-FormFrenzy is an innovative web application that simplifies the process of creating and managing quizzes, forms, and exams. With FormFrenzy, users can easily create customized quizzes, surveys, and result forms, and share them with others through various platforms.
+Survey Form is an innovative web application that simplifies the process of creating and managing quizzes, forms, and exams. With FormFrenzy, users can easily create customized quizzes, surveys, and result forms, and share them with others through various platforms.
 
 Team - `pritishrajpoot`
 
